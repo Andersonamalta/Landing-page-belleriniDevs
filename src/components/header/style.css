@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@500&display=swap');
+
+.principal{
+    display: flex;
+    align-items: center;
+}
+
+.logo-social{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 101.69px;
+    height: 20px;
+    margin-top: 72px;
+    margin-left: 140px;
+}
+
+.logo-principal{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 223.93px;
+    height: 41.6px;
+    margin-top: 62px;
+    margin-left: 30%;
+    
+}
+
+.logo-nome{
+    width: 164.45px;
+    height: 30px;
+    font-family: 'Maven Pro', sans-serif;
+    font-style: normal;
+    font-size: 25.6413px;
+    line-height: 30px;
+    font-weight: 500;
+    color: #ffffff;
+    
+}
+
+.logo-nome a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.logo{
+    width: 37.78px;
+    height: 41.6px;
+}
+

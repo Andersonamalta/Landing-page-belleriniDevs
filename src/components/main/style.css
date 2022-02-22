@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass&display=swap");
+
+.main-texto {
+    display: block;
+    position: absolute;
+    width: 559px;
+    margin-left: 130px;
+}
+
+h2 {
+    width: 506px;
+    height: 122px;
+    margin-right: 814px;
+    margin-top: 130px;
+    font-family: "Overpass", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 61px;
+    color: #d2d2d2;
+}
+
+p {
+    width: 559px;
+    height: 90px;
+    font-family: "Overpass", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #a9a9a9;
+}
+
+button {
+    width: 241px;
+    height: 58px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 55px;
+    color: #ffffff;
+    font-family: "Overpass", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    font-style: normal;
+    position: absolute;
+    line-height: 30px;
+    background-color: #27ae60;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    z-index: 7;
+}
+
+button:hover {
+    background-color: #1d9b51;
+}
+
+.borda-botao {
+    width: 69.5px;
+    height: 0px;
+    position: absolute;
+    margin-left: 83px;
+    margin-top: 125px;
+    border: 1px solid #27ae60;
+}
+
+.rectangle-35 {
+    position: absolute;
+    display: block;
+    z-index: 0;
+    opacity: 6%;
+    margin-top: 20px;
+}
+
+.blob{
+    position: absolute;
+    display: block;
+    z-index: 2;
+    margin-top: 530px;
+}
+
+.blobBorder {
+    position: absolute;
+    display: block;
+    z-index: 1;
+    margin-top: 530px;
+}
+
+.imgBackground {
+    position: absolute;
+    display: block;
+    z-index: 3;
+    margin-left: 50%;
+    margin-top: 70px;
+}
+
+.floor {
+    position: absolute;
+    display: block;
+    z-index: 4;
+    margin-left: 50%;
+    margin-top: 165px;
+}
+
+.character {
+    position: absolute;
+    display: block;
+    z-index: 6;
+    margin-left: 56%;
+    margin-top: 205px;
+}
+
+.sombra {
+    position: absolute;
+    display: block;
+    z-index: 5;
+    margin-left: 75%;
+    margin-top: 650px;
+}
